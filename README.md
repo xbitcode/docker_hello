@@ -10,7 +10,8 @@ A simple Hello World Flask application containerized with Docker, ready to deplo
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/xbitcode/docker_hello)
 
 ## Local Development
 
