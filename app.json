@@ -1,0 +1,7 @@
+{
+  "name": "Docker Hello World",
+  "description": "A simple Hello World app using Docker and Flask",
+  "repository": "https://github.com/xbitcode/docker_hello",
+  "stack": "container",
+  "keywords": ["python", "flask", "docker"]
+}
